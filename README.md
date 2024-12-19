@@ -2,6 +2,7 @@
 
 This project integrates a Next.js frontend with an API layer that leverages the Ollama library and the Llama3.2 Vision model to process images and text prompts. The application allows users to input images and prompts, processes them via an API, and displays generated responses, including time metrics.
 
+![Sample Photo](sample.png)
 ## Features
 
 - **Image Input**: Upload and process images directly in the application.
